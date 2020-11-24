@@ -1,3 +1,5 @@
+For Model Visit: https://drive.google.com/file/d/1k7npIPx6gA0d3LNnraT7kZZb_u_PoSXv/view?usp=sharing
+
 # Hotel_Chat_Bot
 To build a simple chatbot for a hotel using RASA framework
 Objective -
